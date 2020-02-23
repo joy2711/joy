@@ -3,16 +3,17 @@
             background-repeat: no-repeat;
             background-size: cover;
             height: 100vh;
-            background-image: url("image/backgrounds/h-img.jpg");
-            display: flex;
+            background-image: link href="images/IP3-master/backgrounds/h_image.jpg";
+            display: none;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            color: whitesmoke;
+            color: white;
         }
         
         .home h1 {
             font-size: 50px;
+            align-items: center;
         }
         
         .home h4 {
@@ -50,7 +51,7 @@
             background-repeat: no-repeat;
             background-size: cover;
             height: 60vh;
-            background-image: url("image/IP3-master/assets/background/s-image.jpg");
+            background-image: url("../image/IP3-master/assets/background/s-image.jpg");
         }
         
         #services p {
@@ -155,7 +156,7 @@
             background-repeat: no-repeat;
             background-size: cover;
             height: 60vh;
-            background-image: url("../images/assets/backgrounds/c_image.jpg");
+            background-image: url("../images/IP3-master//backgrounds/c_image.jpg");
         }
         
         .contacts h1 {
